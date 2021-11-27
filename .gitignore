@@ -21,3 +21,7 @@
 *.mtc1
 *.out
 *.synctex.gz
+main.pdf
+main.synctex.gz
+main.bcf
+main.run.xml
